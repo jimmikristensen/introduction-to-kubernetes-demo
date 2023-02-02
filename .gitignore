@@ -1,1 +1,3 @@
+# ignore emacs tmp files and buffer
 *.*~
+[#]*[#]
