@@ -1,3 +1,4 @@
 # ignore emacs tmp files and buffer
 *.*~
 [#]*[#]
+.idea
